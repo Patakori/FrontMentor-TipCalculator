@@ -12,4 +12,5 @@ Mobile:
 
 ![mobile-design](https://user-images.githubusercontent.com/86811450/145418923-b0abf4b2-04bc-44c0-97fc-911fbca0c57d.jpg)
 
-![Tipcalculatormobile](https://user-images.githubusercontent.com/86811450/145419153-3d89785a-51c8-421e-a1e2-ae72bed95ff9.gif)
+![Tipcalculatormobile1](https://user-images.githubusercontent.com/86811450/145420018-4dcd3415-8a9c-4f1c-9746-f63c2359fd33.gif)
+
